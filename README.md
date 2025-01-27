@@ -3,8 +3,11 @@
 #This project conducts a comprehensive marketing analysis of Intel’s entry into the smartwatch market, focusing on customer segmentation, market positioning, and strategic recommendations to capture a diverse customer base effectively.
 
 #Key Objectives
+
 #Perform customer segmentation using cluster analysis.
+
 #Evaluate market positioning strategies for Intel's smartwatch.
+
 #Provide actionable recommendations for targeting and partnerships.
 
 #Methodology
