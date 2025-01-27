@@ -5,10 +5,8 @@
 #Key Objectives
 
 #Perform customer segmentation using cluster analysis.
-
-#Evaluate market positioning strategies for Intel's smartwatch.
-
-#Provide actionable recommendations for targeting and partnerships.
+Evaluate market positioning strategies for Intel's smartwatch.
+Provide actionable recommendations for targeting and partnerships.
 
 #Methodology
 #Cluster Analysis: Applied Euclidean distance and the Elbow method to identify optimal clusters.
